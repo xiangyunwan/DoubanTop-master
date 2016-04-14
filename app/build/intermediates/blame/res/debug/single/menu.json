@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\android_github\\DoubanTop-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_detail.xml",
+        "source": "D:\\android_github\\DoubanTop-master\\app\\src\\main\\res\\menu\\menu_detail.xml"
+    },
+    {
+        "merged": "D:\\android_github\\DoubanTop-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\drawer_menu.xml",
+        "source": "D:\\android_github\\DoubanTop-master\\app\\src\\main\\res\\menu\\drawer_menu.xml"
+    },
+    {
+        "merged": "D:\\android_github\\DoubanTop-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "D:\\android_github\\DoubanTop-master\\app\\src\\main\\res\\menu\\menu_main.xml"
+    }
+]

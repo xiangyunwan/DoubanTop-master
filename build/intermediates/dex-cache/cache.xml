@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android-studio\gradle\gradle-2.10-all\gradle-2.8-all\caches\modules-2\files-2.1\com.jakewharton\butterknife\6.1.0\63735f48b82bcd24cdd33821342428252eb1ca5a\butterknife-6.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="D:\android_github\DoubanTop-master\app\build\intermediates\pre-dexed\debug\butterknife-6.1.0_b1292bd70f8de55f92db3ae81b55b482fe3d56d2.jar" />
+    </item>
+    <item
+        jar="D:\android_github\DoubanTop-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9aaaea3a89040f8176f810c85e288fc74d5d1f12">
+        <dex dex="D:\android_github\DoubanTop-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0-alpha1_2ffe14bca9ef9b5e64717450f7f87eb2995df632.jar" />
+    </item>
+    <item
+        jar="D:\android-studio\gradle\gradle-2.10-all\gradle-2.8-all\caches\modules-2\files-2.1\com.squareup.okio\okio\1.4.0\5b72bf48563ea8410e650de14aa33ff69a3e8c35\okio-1.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="D:\android_github\DoubanTop-master\app\build\intermediates\pre-dexed\debug\okio-1.4.0_40dcbe732cd4510901a486dfd212b55abf9eaf74.jar" />
+    </item>
+    <item
+        jar="F:\JavaIDE\android_sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0-alpha1\support-annotations-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b8062546971a3d196343232a19a3c0016272ba47">
+        <dex dex="D:\android_github\DoubanTop-master\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-alpha1_33e53004be816d5c44ac0803d96e2e8b8e69aaee.jar" />
+    </item>
+    <item
+        jar="D:\android_github\DoubanTop-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="D:\android_github\DoubanTop-master\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-22.2.0_5d51f1d6ddc70f1e0b0a4bccdd22079444b491d4.jar" />
+    </item>
+    <item
+        jar="D:\android-studio\gradle\gradle-2.10-all\gradle-2.8-all\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.4.0\40340c0748190fe897baf7bffbc1b282734294e5\okhttp-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="D:\android_github\DoubanTop-master\app\build\intermediates\pre-dexed\debug\okhttp-2.4.0_6f6c1c69de9b840521e1850b9827c9ef5b26ffa0.jar" />
+    </item>
+    <item
+        jar="D:\android_github\DoubanTop-master\app\build\intermediates\exploded-aar\com.joooonho\selectableroundedimageview\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1b915694304bc4a4003b7e7b65577b4f0b514b06">
+        <dex dex="D:\android_github\DoubanTop-master\app\build\intermediates\pre-dexed\debug\com.joooonho-selectableroundedimageview-1.0.1_3d7d57d8aad10dfa157bdca1d55baac90da0f8ac.jar" />
+    </item>
+    <item
+        jar="D:\android_github\DoubanTop-master\app\libs\androrm.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0e424f7fb6db8a6a3acf91a464b39e8131cceb6a">
+        <dex dex="D:\android_github\DoubanTop-master\app\build\intermediates\pre-dexed\debug\androrm_9b133e59728ca703b9a132cfccc82cc2596dba48.jar" />
+    </item>
+    <item
+        jar="D:\android_github\DoubanTop-master\app\build\intermediates\exploded-aar\com.dxjia.baiduvoicehelper\library\0.2.0\jars\libs\VoiceRecognition-2.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="75954e95fd65c2fed2dad6d11a152cab80ffdf1b">
+        <dex dex="D:\android_github\DoubanTop-master\app\build\intermediates\pre-dexed\debug\VoiceRecognition-2.0.1_1da83d9c22f8911ca25e3309d6dcf1a3411f8745.jar" />
+    </item>
+    <item
+        jar="D:\android-studio\gradle\gradle-2.10-all\gradle-2.8-all\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="D:\android_github\DoubanTop-master\app\build\intermediates\pre-dexed\debug\gson-2.3.1_b898303db69171f9f6199f42deccc8586f185c83.jar" />
+    </item>
+    <item
+        jar="D:\android_github\DoubanTop-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="D:\android_github\DoubanTop-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.0_00d7600cdbcb2605fc7588ce6e7faf0928883ad8.jar" />
+    </item>
+    <item
+        jar="D:\android_github\DoubanTop-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\libs\internal_impl-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e57fba0a2d57d3501d8f4ff44c23092978804845">
+        <dex dex="D:\android_github\DoubanTop-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-alpha1_b0b3c5bd91ae16d4bf5eac91f79cf128c0a923fb.jar" />
+    </item>
+    <item
+        jar="D:\android_github\DoubanTop-master\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="D:\android_github\DoubanTop-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-22.2.0_7345ba6f1ed3afc9d71c9059ce90eab1439faf33.jar" />
+    </item>
+    <item
+        jar="D:\android-studio\gradle\gradle-2.10-all\gradle-2.8-all\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.9.0\a681c044244d9fc375198588297a39ba78028423\retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="D:\android_github\DoubanTop-master\app\build\intermediates\pre-dexed\debug\retrofit-1.9.0_44b1c10928a569620bfa50aae634bf4af2ffe30d.jar" />
+    </item>
+    <item
+        jar="D:\android-studio\gradle\gradle-2.10-all\gradle-2.8-all\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\android_github\DoubanTop-master\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_c14a099b2086c7f1e5b82e337fbc554e38cc6d38.jar" />
+    </item>
+    <item
+        jar="D:\android_github\DoubanTop-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="D:\android_github\DoubanTop-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-22.2.0_78a5b9077a0e78f892516d9232b45d89eba5be50.jar" />
+    </item>
+    <item
+        jar="D:\android_github\DoubanTop-master\app\build\intermediates\exploded-aar\com.dxjia.baiduvoicehelper\library\0.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f4a030cae6eb08134ec988639830f2399a0bed03">
+        <dex dex="D:\android_github\DoubanTop-master\app\build\intermediates\pre-dexed\debug\com.dxjia.baiduvoicehelper-library-0.2.0_faab1a9c34fcb824f7900da34abf8315b61628ad.jar" />
+    </item>
+
+</items>

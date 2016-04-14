@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "D:\\android_github\\DoubanTop-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_unkown_image.png",
+        "source": "D:\\android_github\\DoubanTop-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_unkown_image.png"
+    },
+    {
+        "merged": "D:\\android_github\\DoubanTop-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_arrow_back_white.png",
+        "source": "D:\\android_github\\DoubanTop-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_arrow_back_white.png"
+    },
+    {
+        "merged": "D:\\android_github\\DoubanTop-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_menu.png",
+        "source": "D:\\android_github\\DoubanTop-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_menu.png"
+    },
+    {
+        "merged": "D:\\android_github\\DoubanTop-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\avator.jpg",
+        "source": "D:\\android_github\\DoubanTop-master\\app\\src\\main\\res\\mipmap-xhdpi\\avator.jpg"
+    },
+    {
+        "merged": "D:\\android_github\\DoubanTop-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\android_github\\DoubanTop-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android_github\\DoubanTop-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_keyboard_voice.png",
+        "source": "D:\\android_github\\DoubanTop-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_keyboard_voice.png"
+    },
+    {
+        "merged": "D:\\android_github\\DoubanTop-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_github.png",
+        "source": "D:\\android_github\\DoubanTop-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_github.png"
+    },
+    {
+        "merged": "D:\\android_github\\DoubanTop-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_search.png",
+        "source": "D:\\android_github\\DoubanTop-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_search.png"
+    },
+    {
+        "merged": "D:\\android_github\\DoubanTop-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_unstared.png",
+        "source": "D:\\android_github\\DoubanTop-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_unstared.png"
+    },
+    {
+        "merged": "D:\\android_github\\DoubanTop-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_favorites.png",
+        "source": "D:\\android_github\\DoubanTop-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_favorites.png"
+    },
+    {
+        "merged": "D:\\android_github\\DoubanTop-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_arrow_back.png",
+        "source": "D:\\android_github\\DoubanTop-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_arrow_back.png"
+    },
+    {
+        "merged": "D:\\android_github\\DoubanTop-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_close.png",
+        "source": "D:\\android_github\\DoubanTop-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_close.png"
+    },
+    {
+        "merged": "D:\\android_github\\DoubanTop-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\default_bg.jpg",
+        "source": "D:\\android_github\\DoubanTop-master\\app\\src\\main\\res\\mipmap-xhdpi\\default_bg.jpg"
+    },
+    {
+        "merged": "D:\\android_github\\DoubanTop-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_stared.png",
+        "source": "D:\\android_github\\DoubanTop-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_stared.png"
+    },
+    {
+        "merged": "D:\\android_github\\DoubanTop-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_search_header.png",
+        "source": "D:\\android_github\\DoubanTop-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_search_header.png"
+    },
+    {
+        "merged": "D:\\android_github\\DoubanTop-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_share_white.png",
+        "source": "D:\\android_github\\DoubanTop-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_share_white.png"
+    },
+    {
+        "merged": "D:\\android_github\\DoubanTop-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_loading.png",
+        "source": "D:\\android_github\\DoubanTop-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_loading.png"
+    }
+]
